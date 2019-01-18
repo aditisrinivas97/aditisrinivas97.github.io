@@ -1,0 +1,150 @@
+#title {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+  
+  .icon {
+    font-size: .9rem;
+    display: inline-flex;
+    background: #D8D8D8;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+  }
+  .icon span {
+    border-radius: 5px;
+    padding: 3px 5px;
+  }
+  
+  .react {
+    background: #BAD5F5;
+  }
+  .react span::after {
+    content: "React.js";
+  }
+  
+  .express {
+    background: #F2C986;
+  }
+  .express span::after {
+    content: "Express";
+  }
+
+  .docker {
+    background: rgb(115, 168, 113);
+  }
+  
+  .docker span::after {
+    content: "Docker";
+  }
+
+  .kubernetes {
+    background: rgb(55, 120, 139);
+  }
+  
+  .kubernetes span::after {
+    content: "Kubernetes";
+  }
+
+  .elk {
+    background: rgb(135, 143, 32);
+  }
+  
+  .elk span::after {
+    content: "ELK Stack";
+  }
+
+  .rust {
+    background: rgb(173, 14, 14);
+  }
+  
+  .rust span::after {
+    content: "Rust";
+  }
+
+  .bluemix {
+    background: rgb(19, 90, 197);
+  }
+  
+  .bluemix span::after {
+    content: "IBM Bluemix";
+  }
+
+  .kafka {
+    background: rgb(238, 93, 93);
+  }
+  
+  .kafka span::after {
+    content: "Apache Kafka";
+  }
+  
+  .clang {
+    background: rgb(47, 214, 47);
+  }
+  
+  .clang span::after {
+    content: "C";
+  }
+
+  .nwjs {
+    background: rgb(128, 117, 117);
+  }
+  
+  .nwjs span::after {
+    content: "NW.js";
+  }
+
+  .jupyter {
+    background: rgb(15, 105, 30);
+  }
+  
+  .jupyter span::after {
+    content: "Jupyter Notebook";
+  }
+  .arduino {
+    background: rgb(207, 150, 221);
+  }
+  
+  .arduino span::after {
+    content: "Arduino";
+  }
+  .aws {
+    background: rgb(241, 230, 122);
+  }
+  
+  .aws span::after {
+    content: "AWS";
+  }
+  .node {
+    background: #E1C1C1;
+  }
+  .node span::after {
+    content: "Node.js";
+  }
+  
+  .python {
+    background: #EADD86;
+  }
+  .python span::after {
+    content: "Python";
+  }
+  
+  .django {
+    background: #AFEAE5;
+  }
+  .django span::after {
+    content: "Django";
+  }
+  
+  .card a {
+    padding-right: 15px;
+  }
+  
+  .github {
+    color: #739150;
+  }
+  
+  .status {
+    color: #7699C2;
+  }
+  
