@@ -93,7 +93,7 @@ var data = [
 "stack": ["jupyter", "python"],
 "description": "Rsearch project that involved designing and building an analytic model for detecting significant events in time series data, independant of the source domain. Tested the model on stock market data, presidential election data, cricket match data, etc.",
 "website": "https://www.google.com",
-"github": "https://github.com/aditisrinivas97/MyFS",
+"github": "https://github.com",
 "image": "img/projects/research.png",
 "status": "Completed" },
 {
